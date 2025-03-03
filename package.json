@@ -13,7 +13,8 @@
     "@atlaskit/css-reset": "^7.0.0",
     "@hello-pangea/dnd": "^18.0.1",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "styled-components": "^6.1.15"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",

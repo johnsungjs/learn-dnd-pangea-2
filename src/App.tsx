@@ -1,6 +1,6 @@
 import { DragDropContext, Draggable, Droppable } from "@hello-pangea/dnd";
 import { initialWebComponents } from "./util/initialData";
-// import '@atlaskit/css-reset';
+import '@atlaskit/css-reset';
 
 function App() {
   return (
